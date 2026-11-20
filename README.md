@@ -1,16 +1,13 @@
-## Hi there 👋
+### hi, KingChillWorld here 👋
 
-<!--
-**KingChillWorld/KingChillWorld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Exploring memory safety, systems programming, and high-performance CLI tools. Based in Singapore.
 
-Here are some ideas to get you started:
+- 🛠️ Tinkering with side projects on weekends
+- 👯 Open to collaborating on open-source projects
+- 🤔 Thinking about terminal tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KingChillWorld&layout=compact&langs_count=8&hide_border=true&theme=onedark" alt="Top languages" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=KingChillWorld&hide_border=true&theme=onedark" alt="Commit streak" />
+
+<img src="https://img.shields.io/badge/Rust-ff7b72?style=for-the-badge&logoColor=white" alt="Rust" /> <img src="https://img.shields.io/badge/C-ff7b72?style=for-the-badge&logoColor=white" alt="C" /> <img src="https://img.shields.io/badge/WebAssembly-ff7b72?style=for-the-badge&logoColor=white" alt="WebAssembly" /> <img src="https://img.shields.io/badge/Linux-ff7b72?style=for-the-badge&logoColor=white" alt="Linux" /> <img src="https://img.shields.io/badge/Git-ff7b72?style=for-the-badge&logoColor=white" alt="Git" />
